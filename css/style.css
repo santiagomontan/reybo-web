@@ -786,6 +786,7 @@ body{
     line-height: 22px;
     text-align: center;
 }
+}
 /* Menú desplegable con hover */
 .navbar-nav .dropdown:hover .dropdown-menu {
   display: block;
@@ -818,5 +819,4 @@ body{
 @keyframes fadeIn {
   from { opacity: 0; transform: translateY(5px); }
   to { opacity: 1; transform: translateY(0); }
-}
 }
